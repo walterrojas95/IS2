@@ -7,4 +7,4 @@ Configurado para se utilizado en integración continua con Codeship.
 Solo para fines academicos.
 
 Walter Rojas
-hquintan@ulima.edu.pe
+walterrojas@belcorp.biz
